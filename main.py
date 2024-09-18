@@ -28,7 +28,7 @@ while True:
 
         print("Saque")
 
-        valor_saque = float(input("Valor que deseja sacar: "))
+        valor_saque = float(input("Valor que deseja sacar: R$ "))
 
         # verificar todos os critérios do desafio
 
